@@ -3,11 +3,14 @@
 This repository contains the course materials for class **CSCD70 Compiler
 Optimization** @ **University of Toronto**.
 
-## Questions or Concerns?
+And this branch is for the solutions part of the assignments with some of the keynotes (by Shenghao Qiu, UoL)
 
-If you have any questions or concerns, please open a new thread on
-[Piazza](https://piazza.com/utoronto.ca/winter2023/cscd70/home) so that all your
-colleagues can benefit.
+
+## Dir info
+
+- Tutorial0X are for all the tutorials codes and handouts included
+- Website is for the lecture slides
+- AssignmentX are for the LLVM coursework
 
 ## Acknowledgement
 
